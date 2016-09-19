@@ -1,0 +1,1 @@
+export default {tom: {number: 0}}

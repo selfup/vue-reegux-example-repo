@@ -1,0 +1,1 @@
+import Tom from './tom/index'

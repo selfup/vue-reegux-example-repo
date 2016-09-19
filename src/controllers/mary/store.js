@@ -1,0 +1,1 @@
+export default {mary: {number: 0}}
